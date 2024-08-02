@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProyectoDatepicker_Zalma.props" />
+</Project>

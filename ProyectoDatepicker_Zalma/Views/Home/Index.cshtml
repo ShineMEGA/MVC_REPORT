@@ -1,0 +1,49 @@
+﻿@model ProyectoDatepicker.Models.ReporteViewModel
+
+
+
+<form asp-action="Index" method="post">
+    <div class="form-group">
+        <label for="FechaInicio">Fecha Inicio</label>
+        <input type="date" id="FechaInicio" name="FechaInicio" value="@Model.FechaInicio.ToString("yyyy-MM-dd")" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="FechaFin">Fecha Fin</label>
+        <input type="date" id="FechaFin" name="FechaFin" value="@Model.FechaFin.ToString("yyyy-MM-dd")" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nr Reporte</th>
+                <th>Sv Indice</th>
+                <th>Sv Fh Reporte</th>
+                <th>Pr Nombre</th>
+                <th>Pr RFC</th>
+                <th>Cl Nombre</th>
+                <th>Cl Estatus</th>
+                <th>Su Nombre</th>
+                <th>Su Supervisoria</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reporte in Model.Reportes)
+            {
+                <tr>
+                    <td>@reporte.NrReporte</td>
+                    <td>@reporte.SvIndice</td>
+                    <td>@reporte.SvFhReporte.ToString("yyyy-MM-dd")</td>
+                    <td>@reporte.PrNombre</td>
+                    <td>@reporte.PrRFC</td>
+                    <td>@reporte.ClNombre</td>
+                    <td>@reporte.ClEstatus</td>
+                    <td>@reporte.SuNombre</td>
+                    <td>@reporte.SuSupervisoria</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

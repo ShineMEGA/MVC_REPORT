@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\ProyectoDatepicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|c:\\git\\proyectodatepicker\\proyectodatepicker_zalma\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|solutionrelative:proyectodatepicker_zalma\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|c:\\git\\proyectodatepicker\\proyectodatepicker_zalma\\models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|solutionrelative:proyectodatepicker_zalma\\models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|c:\\git\\proyectodatepicker\\proyectodatepicker_zalma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1E6BE6-51DA-44D8-AAAA-F689703B1EBF}|ProyectoDatepicker_Zalma\\ProyectoDatepicker.csproj|solutionrelative:proyectodatepicker_zalma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDatepicker_Zalma\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "ProyectoDatepicker_Zalma\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T19:34:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Models\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoDatepicker_Zalma\\Models\\ReportViewModel.cs",
+              "ToolTip": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Models\\ReportViewModel.cs",
+              "RelativeToolTip": "ProyectoDatepicker_Zalma\\Models\\ReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:33:20.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDatepicker_Zalma\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\git\\ProyectoDatepicker\\ProyectoDatepicker_Zalma\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoDatepicker_Zalma\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T20:48:49.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
